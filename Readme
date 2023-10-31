@@ -1,4 +1,5 @@
 -run (browniew init) to initlaize brownie 
+npx create-react-app <app-name> in scripts
 this will create bank json in build/contracts folder
 In new terminal run ganache-cli
 brownie run deploy --network development to run contract
