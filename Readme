@@ -1,0 +1,6 @@
+-run (browniew init) to initlaize brownie 
+this will create bank json in build/contracts folder
+In new terminal run ganache-cli
+brownie run deploy --network development to run contract
+cd /scripts/app/api -- flask run 
+npm start --should render things
